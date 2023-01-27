@@ -1,2 +1,2 @@
 # php-crud
-A bsic php crud application, (without MVC) for basic tutorials etc.
+A basic php crud application, (without MVC) for basic tutorials etc.
